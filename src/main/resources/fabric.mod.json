@@ -1,0 +1,3 @@
+{"schemaVersion":1,"id":"oldwarden","version":"${version}","name":"Old Warden","description":"The old Warden concept as a super boss.","authors":["You"],"license":"MIT","environment":"*",
+ "entrypoints":{"main":["com.oldwarden.OldWardenMod"],"client":["com.oldwarden.client.OldWardenClient"]},
+ "depends":{"fabricloader":">=0.16.0","minecraft":"~1.21.1","java":">=21","fabric-api":"*","geckolib":"*"}}
